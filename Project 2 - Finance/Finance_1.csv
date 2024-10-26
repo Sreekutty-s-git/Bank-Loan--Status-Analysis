@@ -1,0 +1,25 @@
+Column1,Column2,Column3
+id,54734,55742
+member_id,80364,114426
+loan_amnt,25000,7000
+funded_amnt,25000,7000
+funded_amnt_inv,19080.0572,672.8038387
+term, 36 months, 36 months
+int_rate,11.89%,10.71%
+installment,829.1,228.22
+grade,B,B
+sub_grade,B4,B5
+emp_title,,CNN
+emp_length,< 1 year,< 1 year
+home_ownership,RENT,RENT
+annual_inc,85000,65000
+verification_status,Verified,Not Verified
+issue_d,Aug-09,May-08
+loan_status,Fully Paid,Fully Paid
+pymnt_plan,n,n
+desc,"Due to a lack of personal finance education and exposure to poor financing skills growing up, I was easy prey for credit predators. I am devoted to becoming debt-free and can assure my lenders that I will pay on-time every time. I have never missed a payment during the last 16 years that I have had credit. ",Just want to pay off the last bit of credit card debt at a better rate.
+purpose,debt_consolidation,credit_card
+title,Debt consolidation for on-time payer,Credit Card payoff
+zip_code,941xx,112xx
+addr_state,CA,NY
+dti,19.48,14.29
